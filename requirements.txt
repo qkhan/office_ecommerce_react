@@ -1,0 +1,14 @@
+  240  npm install bootstrap --save
+  469  npm init -y
+  502  npm i mongoose
+  529  npm start
+  530  npm start
+  531  npm i uuid
+  532  npm start
+  533  npm i body-parser morgan
+  534  history | grep "npm" > requirements.txt
+  536  npm i cookie-parser
+  537  history | grep "npm" > requirements.txt
+  539  npm i express-validator
+  540  npm install
+  541  history | grep "npm" > requirements.txt
